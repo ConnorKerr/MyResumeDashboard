@@ -1,0 +1,12 @@
+name: Resume_Dashboard
+title: Resume_Dashboard
+username: connorkerr
+account: connorkerr
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17191897
+bundleId: 11885722
+url: https://connorkerr.shinyapps.io/Resume_Dashboard/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
